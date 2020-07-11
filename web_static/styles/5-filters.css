@@ -6,7 +6,7 @@
     border: 1px #DDDDDD solid;
     position: relative;
 }
-button{
+section.filters button{
     font-size: 18px;
     background-color: #FF5A5F;
     color: #FFFFFF;
@@ -27,21 +27,22 @@ button:hover
     height: 100%;
     width: 25%;
     position: relative;
-    display: inline-block;
+    float: left;
 }
 .locations{
     border-right: 1px #DDDDDD solid;
 }
-.title{
-    color: black;
+.locations h3, .amenities h3{
+    color: #484848;
     font-weight: 600;
-    margin-left: 16%;
-    margin-top: 13px;
+    margin-left: 14px;
+    margin-top: 12px;
+
 }
-.subtitle{
-    color: black;
+h4{
+    color: #484848;
     font-weight: 400;
     font-size: 14px;
-    margin-left: 16%;
+    margin-left: 14px;
     margin-top: -11px;
 }

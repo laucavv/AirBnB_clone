@@ -85,7 +85,7 @@ EOF  all  create  destroy  help  quit  show  update
 ## 🚀Authors
 
 **Laura Villan** ![GitHub followers](https://img.shields.io/github/followers/laucavv?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/laucavv23?label=%40laucavv23&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/laucavv?label=%40laucavv23&style=social)
 
 **Javier Charria** ![GitHub followers](https://img.shields.io/github/followers/linkjavier?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/linkjavier?label=%40linkjavier&style=social)
